@@ -1,0 +1,1 @@
+# draw-smc-db-schema
